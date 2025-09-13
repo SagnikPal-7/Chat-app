@@ -1,6 +1,6 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-## Architectural Diagram
+## Architecture Diagram
 
 ![Architecture Diagram](frontend/public/screenshot-for-readme.png)
 
